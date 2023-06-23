@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "375377329832",
+    "project_id": "shop-recommendation-system",
+    "storage_bucket": "shop-recommendation-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375377329832:android:63f6d6cba5174a17e94c9d",
+        "android_client_info": {
+          "package_name": "com.app.shoprecommendationsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375377329832-fifcmk09r28paoqs28bntfjlq0alelfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbW-U60xlVtuqGTR_FCYtCOKgNr_esWkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375377329832-fifcmk09r28paoqs28bntfjlq0alelfp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

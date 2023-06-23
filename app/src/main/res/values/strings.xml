@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ShopExplorer</string>
+
+
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_map">MapActivity</string>
+
+    <string name="congratulations_your_final_order_has_been_placed_successfully_soon_it_will_be_verified">Congratulations, Your Final order has been placed successfully. Soon it will be verified</string>
+    <string name="click_to_search">click_to_search on Google</string>
+    <string name="load_image">Load Image</string>
+    <string name="click_to_search1">Search</string>
+</resources>
